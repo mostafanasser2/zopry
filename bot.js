@@ -1,9 +1,3 @@
-﻿const PREFIX = "*"; // برافيكس
-const CMD = 'q'; //  امر تغشيل قائمة الاصوات
-const GUILDID = '700297270867918878'; // اي دي السيرفر  
-const CHANNELID = '700813072964780183'; // اي دي الروم
-const ownerID = ["685890457531580555"]; // ايدي ادارة البوت او صاحب البوت .. 
-// ============ Settings =================== //
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const Util = require('discord.js');
